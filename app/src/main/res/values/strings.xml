@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">File - Read and Write</string>
+    <string name="write_data">Write Data to File</string>
+    <string name="clear_data">Clear Screen</string>
+    <string name="delete_file">Delete File</string>
+    <string name="info">The File  %1$s has been deleted</string>
+    <string name="text_hint">Enter Data Here . . .</string>
+    <string name="label">Content From File</string>
+</resources>
